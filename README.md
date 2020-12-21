@@ -7,10 +7,10 @@ Pandas
 
 ## Background
 
-Pyber is a python based ride share app company. 
-I used Jupyter Notebook and Pandas  script to inspected dataon csv files, merge data sets, and perform calculations. With Matplotlib, I created visual two dimensional graphs to better understand and analyze the Pyber rideshare outlook. Looking at the visual story through various graphs has helped bring life to the analysis by offering an easy way to understand apects of rideshare in comparison, and helped shed light on patterns corelations and trends.  
+Pyber is a python based ride share app company. We will be looking at the relationship between three city types, Urban, Suburban, and Rural and comparing the number of drivers and rides and fares. This data study will help us improve access, eficiency, and affordabilty. This data covers January to early May of 2019. 
 
-We will be looking at the relationship between three city types, Urban, Suburban, and Rural and comparing the number of drivers and rides and fares. This dat will help us improve access, eficiency, and affordabilty. This data covers January to early May of 2019. 
+I used Jupyter Notebook and Panda script to inspected data from large csv files. I then merged data sets, and performed several calculations. With Matplotlib, I created visual two dimensional graphs to better understand and analyze the Pyber rideshare outlook. Looking at the visual story through various graphs has helped bring this analysis to life by offering an easy way to understand apects of rideshare in comparison, and helped visulaize patterns, corelations, and trends.  
+
 
 ## Analysis
 
@@ -22,7 +22,7 @@ I created a Bubble Plot highlighting the following aspects.
 * Total Number of Drivers Per City
 * City Type (Urban, Suburban, Rural)
 
-Next I analyzed the following information and created a visual representation with the use od pie charts:
+Next I analyzed the following information and created a visual representation with the use of pie charts:
 * % of Total Fares by City Type
 * % of Total Rides by City Type
 * % of Total Drivers by City Type
