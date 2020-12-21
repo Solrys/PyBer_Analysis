@@ -22,6 +22,8 @@ I created a Bubble Plot highlighting the following aspects.
 * Total Number of Drivers Per City
 * City Type (Urban, Suburban, Rural)
 
+[bubble_1!](https://github.com/Solrys/PyBer_Analysis/blob/main/resources/Screen%20Shot%202020-12-20%20at%208.28.32%20PM.png)
+
 Next I analyzed the following information and created a visual representation with the use of pie charts:
 * % of Total Fares by City Type
 * % of Total Rides by City Type
