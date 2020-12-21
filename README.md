@@ -33,6 +33,7 @@ Next I analyzed the following information and created a visual representation wi
 * % of Total Drivers by City Type
 
 ![plot](https://github.com/Solrys/PyBer_Analysis/blob/main/resources/Screen%20Shot%202020-12-20%20at%208.29.09%20PM.png)
+![pie1](https://github.com/Solrys/PyBer_Analysis/blob/main/resources/Screen%20Shot%202020-12-20%20at%208.29.42%20PM.png)
 
 
 
