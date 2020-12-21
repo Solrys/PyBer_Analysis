@@ -44,6 +44,9 @@ Next I analyzed the following information and created a visual representation wi
 
 Next I created a DataFrame column to get the total number of rides, total number of drivers, and the total fares for each city type. Then, I calculated the average fare per ride and average fare per driver for each city type. Finally, I added this data to a new DataFrame, then format the columns as shown below:
 
+![Columns](https://github.com/Solrys/PyBer_Analysis/blob/main/resources/Screen%20Shot%202020-12-20%20at%209.29.43%20PM.png)
+
+
 
 
 
