@@ -27,10 +27,14 @@ I created a Bubble chart highlighting the following aspects.
 #### From this chart we can clearly see the corelation between driver count and fare. Urban cities had the largest driver count while Rural and Suburban cities were able to command the largest average fare. 
 
 
-Next I analyzed the following information and created a visual representation with the use of pie charts:
+Next I analyzed the following information and created a visual representation with the use of charts:
 * % of Total Fares by City Type
 * % of Total Rides by City Type
 * % of Total Drivers by City Type
+
+![plot](https://github.com/Solrys/PyBer_Analysis/blob/main/resources/Screen%20Shot%202020-12-20%20at%208.29.09%20PM.png)
+
+
 
 
 
