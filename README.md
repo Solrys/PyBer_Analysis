@@ -33,7 +33,18 @@ Next I analyzed the following information and created a visual representation wi
 * % of Total Drivers by City Type
 
 ![plot](https://github.com/Solrys/PyBer_Analysis/blob/main/resources/Screen%20Shot%202020-12-20%20at%208.29.09%20PM.png)
+
+
 ![pie1](https://github.com/Solrys/PyBer_Analysis/blob/main/resources/Screen%20Shot%202020-12-20%20at%208.29.42%20PM.png)
+
+
+![pie ](https://github.com/Solrys/PyBer_Analysis/blob/main/resources/Screen%20Shot%202020-12-20%20at%208.30.20%20PM.png)
+
+#### In the charts above there is a clear correlation between higher percentage in each of the aspects measured and city size. Urban cities had the highest percentage of total fares, total rides, and total drivers, while the rural cities had the smallest percentage.  
+
+Next I created a DataFrame column to get the total number of rides, total number of drivers, and the total fares for each city type. Then, I calculated the average fare per ride and average fare per driver for each city type. Finally, I added this data to a new DataFrame, then format the columns as shown below:
+
+
 
 
 
@@ -49,4 +60,4 @@ Even though less populated rural and suburban cities were able to bring in a hig
 The data we collected can possibly help the company PyBer increase revenue by understanding where to allocate drivers and when to demand higher fares or when to offer competititve rates. 
 
 
-## Conclusions and Recomendations
+
