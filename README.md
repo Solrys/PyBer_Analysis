@@ -48,6 +48,8 @@ Next I created a DataFrame column to get the total number of rides, total number
 
 ![line](https://github.com/Solrys/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
+#### Here we see that the less populated rural cities had the highest average fare but the urban cities brought in the most income overall. 
+
 
 
 
@@ -56,7 +58,7 @@ Next I created a DataFrame column to get the total number of rides, total number
 
 
 ## Conclusions and Recomendations
-Even though less populated rural and suburban cities were able to bring in a highe average ride share fare, there were more total rides in the urban cities indicating a reason why the urban cities are more lucrative. There are other aspects of this data we would need to gather to get a clearer picture.Some questions remain:
+Even though less populated rural and suburban cities were able to bring in a highe average ride share fare, there were more total rides in the urban cities indicating the urban cities are more lucrative. There are other aspects of this data we would need to gather to get a clearer picture.Some questions remain:
 * How long do drivers wait in between rides for the three city types. 
 * Where are competitors in respect to the three city types and how does that compare to average fares. 
 * Is the higher fare average a result of less competition?
