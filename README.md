@@ -5,7 +5,7 @@ Analysis for rideshare using Matplotlib
 Jupyter Notebook
 Pandas
 
-## Bakground
+## Background
 
 Pyber is a python based ride share app company. 
 I used Jupyter Notebook and Pandas  script to inspected dataon csv files, merge data sets, and perform calculations. With Matplotlib, I created visual two dimensional graphs to better understand and analyze the Pyber rideshare outlook. Looking at the visual story through various graphs has helped bring life to the analysis by offering an easy way to understand apects of rideshare in comparison, and helped shed light on patterns corelations and trends.  
