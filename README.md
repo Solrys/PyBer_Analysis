@@ -59,13 +59,15 @@ Next I created a DataFrame column to get the total number of rides, total number
 
 
 ## Conclusions and Recomendations
-Even though less populated rural and suburban cities were able to bring in a highe average ride share fare, there were more total rides in the urban cities indicating the urban cities are more lucrative. There are other aspects of this data we would need to gather to get a clearer picture.Some questions remain:
+Even though less populated rural and suburban cities were able to bring in a highe average ride share fare, there were more total rides in the urban cities indicating the urban cities are more lucrative. There are other aspects of this data we would need to gather to get a clearer picture.
+
+Some questions remain:
 * How long do drivers wait in between rides for the three city types. 
-* Where are competitors in respect to the three city types and how does that compare to average fares. 
+* Where are competitors located in respect to the three city types and how does that compare to average fares? 
 * Is the higher fare average a result of less competition?
 * What is the overall picture for the entire annual year?
 
-The data we collected can possibly help the company PyBer increase revenue by understanding where to allocate drivers and when to demand higher fares or when to offer competititve rates. 
+The data we collected can possibly help the company PyBer increase revenue by understanding where to allocate drivers and when to demand higher fares or when to offer competititve rates. In the meantime we can suggest allocating more drivers to rural and suburban cities to see of that will increase the collective fares paid. Pyber can also try raising fares slightly and track the amount of rides after the price increase to make sure its not negatively affecting the total outlook. PyBer can also look into creating more rides in the three city types by increasing efficiency.
 
 
 
