@@ -46,6 +46,8 @@ Next I created a DataFrame column to get the total number of rides, total number
 
 ![Columns](https://github.com/Solrys/PyBer_Analysis/blob/main/resources/Screen%20Shot%202020-12-20%20at%209.29.43%20PM.png)
 
+![line](https://github.com/Solrys/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 
 
 
