@@ -38,4 +38,14 @@ Next I analyzed the following information and created a visual representation wi
 
 
 
-## Recomendations
+## Conclusions and Recomendations
+Even though less populated rural and suburban cities were able to bring in a highe average ride share fare, there were more total rides in the urban cities indicating a reason why the urban cities are more lucrative. There are other aspects of this data we would need to gather to get a clearer picture.Some questions remain:
+* How long do drivers wait in between rides for the three city types. 
+* Where are competitors in respect to the three city types and how does that compare to average fares. 
+* Is the higher fare average a result of less competition?
+* What is the overall picture for the entire annual year?
+
+The data we collected can possibly help the company PyBer increase revenue by understanding where to allocate drivers and when to demand higher fares or when to offer competititve rates. 
+
+
+## Conclusions and Recomendations
