@@ -16,7 +16,7 @@ I used Jupyter Notebook and Panda script to inspected data from large csv files.
 
 Pyber has established a presence in Urban, Suburban and Rural cities. Looking at the data I found that the number of rides, drivers and average fare varies for each of those city types.
 
-I created a Bubble Plot highlighting the following aspects. 
+I created a Bubble chart highlighting the following aspects. 
 * Average Fare ($) Per City
 * Total Number of Rides Per City
 * Total Number of Drivers Per City
@@ -24,10 +24,14 @@ I created a Bubble Plot highlighting the following aspects.
 
 ![bubble_1](https://github.com/Solrys/PyBer_Analysis/blob/main/resources/Screen%20Shot%202020-12-20%20at%208.28.32%20PM.png)
 
+###From this Chart we can clearly see the corelation between driver count and fare. Urban cities had the largest driver count while Rural and Suburban cities were able to command the largest average fare. 
+
 
 Next I analyzed the following information and created a visual representation with the use of pie charts:
 * % of Total Fares by City Type
 * % of Total Rides by City Type
 * % of Total Drivers by City Type
+
+
 
 ## Recomendations
