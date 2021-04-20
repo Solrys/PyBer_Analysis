@@ -1,4 +1,4 @@
-# PyBer Analysis
+# UBER Analysis
 Analysis for rideshare using Matplotlib
 
 ## Method
@@ -7,7 +7,7 @@ Jupyter Notebook
 Pandas
 
 ## Background
-
+I will be creating a model for Analysis for a rideshare company. For the purpose of this study I will name the fictional rideshare company "Pyber"
 Pyber is a python based ride share app company. We will be looking at the relationship between three city types, Urban, Suburban, and Rural and comparing the number of drivers and rides and fares. This data study will help us improve access, eficiency, and affordabilty. This data covers January to early May of 2019. 
 
 I used Jupyter Notebook and Panda script to inspected data from large csv files. I then merged data sets, and performed several calculations. With Matplotlib, I created visual two dimensional graphs to better understand and analyze the Pyber rideshare outlook. Looking at the visual story through various graphs has helped bring this analysis to life by offering an easy way to understand apects of rideshare in comparison, and helped visulaize patterns, corelations, and trends.  
